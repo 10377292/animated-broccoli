@@ -1,1 +1,1 @@
-useDynLib(animated-broccoli)
+useDynLib(broccoli)
