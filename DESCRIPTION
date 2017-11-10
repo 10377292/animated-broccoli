@@ -1,0 +1,8 @@
+Package: animated-broccoli
+Version: 1
+Date: 2017-10-11
+Title: Dati
+License: CC BY-NC-SA 4.0
+Copyright: See the individual source files for copyrights information
+NeedsCompilation: yes
+RoxygenNote: 5.0.1
